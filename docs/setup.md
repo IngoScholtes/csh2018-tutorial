@@ -13,13 +13,13 @@ git clone --depth 1 https://github.com/IngoScholtes/csh2018-tutorial
 
 The option `--depth 1` ensures that you only get the latest version, ignoring the history of the repository. If you don't have `git` installed already, here you can find information on [how to set up git](https://help.github.com/articles/set-up-git/).
 
-Prior to the start of the first tutorial session, we will add skeleton `python` files to the [`code` directory](https://github.com/IngoScholtes/csh2018-tutorial/tree/master/code) of the repository. These files contain explanations, as well as empty jupyter cells that we will fill together throughout the live coding sessions. The tutors will regularly push the current solution to the repository. You can thus execute the terminal command
+In the [`code` directory](https://github.com/IngoScholtes/csh2018-tutorial/tree/master/code) of the repository, you will find the code files that we will work through during the tutorial.  These files contain explanations, as well as python code that we will explain during the live coding sessions. As we make changes to these files, you can sync your local copy with the tutor. Just execute the terminal command
 
 ```
 git pull
 ```
 
-in the directory of your local copy to receive a *sample solution* that is growing as the hands-on tutorial moves forward. Just have a look in the directory `live_solutions`. If you are using Visual Studio Code (see below) this is even easier: Just click the **sync** symbol in the status bar to update the current sample solution shown on the tutor's screen! This will allow you to quickly correct any potential errors.
+to receive the latest updates. If you are using Visual Studio Code (see below) this is even easier: Just click the **sync** symbol in the status bar to update the current sample solution shown on the tutor's screen!
 
 # Installing python 3.X
 
