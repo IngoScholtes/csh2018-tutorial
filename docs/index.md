@@ -12,7 +12,7 @@ To address this challenge, researchers have developed advanced graph modelling a
 
 # Tutor
 
-[Prof. Dr. Ingo Scholtes](http://www.ingoscholtes.net)  
+[Ingo Scholtes](http://www.ingoscholtes.net)  
 Head of [Data Analytics Group](http://ifi.uzh.ch/dag)  
 Department of Informatics (IfI)  
 University of Zurich  
