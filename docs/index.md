@@ -38,8 +38,8 @@ Participants should bring a laptop with a python 3.x environment. See [setup ins
 
 Unit | Topic | Code
 ----|----|----|----
-1 | A Primer to Data Science with `python`, `jupyter`, `git` and `VS Code` (15 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_1_vscode_jupyter.py)
-2 | Analysis and Visualisation of Path Data in [`pathpy`](http://www.pathpy.net) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_2_pathpy.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_2_pathpy.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_2_pathpy.html)
+1 | A Primer to Data Science with `python`, `jupyter`, `git` and `VS Code` (15 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_vscode_jupyter.py)
+2 | Analysis and Visualisation of Path Data in [`pathpy`](http://www.pathpy.net) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/2_pathpy.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/2_pathpy.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/2_pathpy.html)
 
 ### Break
 
@@ -49,9 +49,9 @@ Unit | Topic | Code
 
 Unit | Topic | Code
 ----|----|----|----
-3 | Fitting and Visualising Higher-order Network Models (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_3_higher_order.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_3_higher_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_3_higher_order.html)
-4 | Time-stamped Network Analysis in [`pathpy`](http://www.pathpy.net) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_4_temporal_networks.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_4_temporal_networks.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_4_temporal_networks.html)
-5 | Exploration: Higher-order Analysis of [real-world data](https://github.com/IngoScholtes/csh2018-tutorial/tree/master/data) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_5_exploration.py), [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_5_exploration.ipynb)
+3 | Fitting and Visualising Higher-order Network Models (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/3_higher_order.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/3_higher_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/3_higher_order.html)
+4 | Time-stamped Network Analysis in [`pathpy`](http://www.pathpy.net) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/4_temporal_networks.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/4_temporal_networks.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/4_temporal_networks.html)
+5 | Exploration: Higher-order Analysis of [real-world data](https://github.com/IngoScholtes/csh2018-tutorial/tree/master/data) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/5_exploration.py), [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/5_exploration.ipynb)
 
 ### Break
 
@@ -61,9 +61,9 @@ Unit | Topic | Code
 
 Unit | Topic | Code
 ----|----|----|----
-6 | Multi-order Representation Learning (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_6_multi_order.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_6_multi_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_6_multi_order.html)
-7 | Optimal Higher-order Analytics for Temporal Data (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_7_optimal_analysis.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_7_optimal_analysis.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_7_optimal_analysis.html)
-8 | Exploration: Multi-order Analysis of [Time-stamped Social Networks](https://github.com/IngoScholtes/csh2018-tutorial/tree/master/data) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_8_exploration.py),  [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_8_exploration.ipynb)
+6 | Multi-order Representation Learning (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/6_multi_order.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/6_multi_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/6_multi_order.html)
+7 | Optimal Higher-order Analytics for Temporal Data (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/7_optimal_analysis.py) [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/7_optimal_analysis.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/7_optimal_analysis.html)
+8 | Exploration: Multi-order Analysis of [Time-stamped Social Networks](https://github.com/IngoScholtes/csh2018-tutorial/tree/master/data) (30 min) | [.py](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/8_exploration.py),  [.ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/8_exploration.ipynb)
 
 # Data sets
 
