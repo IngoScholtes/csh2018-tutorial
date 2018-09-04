@@ -104,7 +104,7 @@ def convert(ipynb_file, output_file=None, blank_code = False, todo_msg = '# TODO
 #convert('code/2_pathpy.ipynb', 'code/2_pathpy_.py', blank_code=True, todo_msg=None)
 extract_code('code/2_pathpy.ipynb', 'code/2_pathpy_code.py')
 #remove_code('solutions/2_pathpy.ipynb', 'code/2_pathpy.ipynb')
-convert('code/2_pathpy.ipynb', 'solutions/2_pathpy.py', blank_code=False, todo_msg=None)
+convert('code/2_pathpy.ipynb', 'code/2_pathpy.py', blank_code=False, todo_msg=None)
 
 #%% Unit 3
 #convert('solutions/3_higher_order.ipynb', 'code/3_higher_order.py', blank_code=True, todo_msg=None)
