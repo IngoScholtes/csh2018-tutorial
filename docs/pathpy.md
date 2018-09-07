@@ -5,7 +5,7 @@ permalink: /pathpy
 
 # pathpy tutorial
 
-This tutorial gives an in-depth introduction to the Open Source python data analytics package `pathpy`. We illustrate the theoretical foundations of higher- and multi-order network models in toy examples, and we will demonstrate their advantages in the analysis of time series data on complex networks. The latest version of `pathpy` is available at the[python package index](https://pypi.org/project/pathpy2/). In python 3.x, you can install it by typing:
+This tutorial gives an in-depth introduction to the Open Source python data analytics package `pathpy`. We illustrate the theoretical foundations of higher- and multi-order network models in toy examples, and we will demonstrate their advantages in the analysis of time series data on complex networks. The latest version of `pathpy` is available at the [python package index](https://pypi.org/project/pathpy2/). In python 3.x, you can install it by typing:
 
 ```
 pip install pathpy2
@@ -19,7 +19,7 @@ The following video explains the science behind `pathpy`:
 
 [![Watch promotional video](https://img.youtube.com/vi/CxJkVrD2ZlM/0.jpg)](https://www.youtube.com/watch?v=CxJkVrD2ZlM)
 
-Having completed the introduction to interactive data science with `python`, `Visual Studio Code`, and `jupyter` in [unit 1](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_vscode_jupyter.py), the tutorial consists of seven units (approx. 30 minutes each). For each unit we provide a stand-alone HTML file, as well as a juypter notebook that you can download and run on your own machine. In unit 5 and 8 we invite you to use `pathpy` to explore higher- and multi-order models on your own.
+In [unit 1](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_vscode_jupyter.py), we complete the [setup of the development environment](https://ingoscholtes.github.io/csh2018-tutorial/setup) and the introduction to interactive data science with `python`, `Visual Studio Code`, and `jupyter`. The reamining seven units (approx. 30 minutes each) introduce `pathpy`'s approach to the modeling and analysis of paths and time series data on complex networks. For each unit we provide a stand-alone HTML file, as well as a juypter notebook that you can download and run on your machine. In unit 5 and 8 we invite you to use `pathpy` to explore higher- and multi-order models on your own.
 
 Unit | Topic | jupyter notebook  
 ------|-----|-----
