@@ -5,7 +5,9 @@ permalink: /pathpy
 
 # pathpy tutorial
 
-This tutorial gives an in-depth introduction to the Open Source python data analytics package `pathpy`. We illustrate the theoretical foundations of higher- and multi-order network models in toy examples, and we will demonstrate their advantages in the analysis of time series data on complex networks. The latest version of `pathpy` is available at the [python package index](https://pypi.org/project/pathpy2/). In python 3.x, you can install it by typing:
+This tutorial gives an in-depth introduction to the Open Source python data analytics package `pathpy`. `pathpy` provides a new approach to model, analyse, and visualise data that capture paths of indirected influence in complex networked systems. Examples for data that can be studied with `pathpy` include time-stamped social networks, traces of information propagation, passenger pathways in transportation networks, clickstream data, citation networks, or biological pathway data.
+
+This hands-on tutorial introduces and illustrates the theoretical foundations of higher- and multi-order network models in toy examples. We further demonstrate their advantages in the analysis of time series data on complex networks. The latest version of `pathpy` is available at the [python package index](https://pypi.org/project/pathpy2/). In python 3.x, you can install it by typing:
 
 ```
 pip install pathpy2
@@ -23,6 +25,8 @@ In [unit 1](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_
 
 Unit | Topic | jupyter notebook  
 ------|-----|-----
+Lecture | [Understanding Complex Systems - From Networks to Optimal Higher-order Models](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/docs/slides.pdf) | [pdf](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/docs/slides.pdf)
+1 | [Data Science with python, jupyter, and VSCode](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_vscode_jupyter.py) | [py](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/1_vscode_jupyter.py)
 2 | [Introducing `pathpy`](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/2_pathpy.html) | [html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/2_pathpy.html) [ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/2_pathpy.ipynb)  
 3 | [Higher-order analysis of path data](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/3_higher_order.html) | [html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/3_higher_order.html) [ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/3_higher_order.ipynb)  
 4 | [Temporal Network Analysis and Visualisation](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/4_temporal_networks.html) | [html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/4_temporal_networks.html) [ipynb](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/solutions/4_temporal_networks.ipynb)  
