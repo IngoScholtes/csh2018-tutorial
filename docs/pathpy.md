@@ -3,7 +3,7 @@ title: Hands-on Tutorial on Higher-Order Data Analytics
 permalink: /pathpy
 ---
 
-# Higher-order Network Analytics with `pathpy`
+# Higher-order Analytics with pathpy
 
 This tutorial gives an in-depth introduction to the python Open Source data analytics package `pathpy`.
 
@@ -13,7 +13,7 @@ The following video gives a high-level explanation of the science behind `pathpy
 
 [![Watch promotional video](https://img.youtube.com/vi/CxJkVrD2ZlM/0.jpg)](https://www.youtube.com/watch?v=CxJkVrD2ZlM)
 
-Details of the method can be found in the following published works:
+Details of the scientific background can be found in the following published works:
 
 1. I Scholtes: [When is a network a network? Multi-Order Graphical Model Selection in Pathways and Temporal Networks](http://dl.acm.org/citation.cfm?id=3098145), In KDD'17 - Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Halifax, Nova Scotia, Canada, August 13-17, 2017
 2. I Scholtes, N Wider, A Garas: [Higher-Order Aggregate Networks in the Analysis of Temporal Networks: Path structures and centralities](http://dx.doi.org/10.1140/epjb/e2016-60663-0), The European Physical Journal B, 89:61, March 2016
