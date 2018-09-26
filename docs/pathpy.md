@@ -30,7 +30,7 @@ pip install pathpy2
 
 [![Watch promotional video](https://img.youtube.com/vi/QIPqFaR2Z5c/0.jpg)](https://www.youtube.com/watch?v=QIPqFaR2Z5c)
 
-A description of the [recommended setup](https://ingoscholtes.github.io/csh2018-tutorial/setup) to complete this tutorial is available [online](https://ingoscholtes.github.io/csh2018-tutorial/setup). An introduction to interactive data science with `python`, `Visual Studio Code`, and `jupyter` is provided in [unit 1](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_vscode_jupyter.py).
+A description of the [recommended setup](https://ingoscholtes.github.io/csh2018-tutorial/setup) to complete this tutorial is available [online](https://ingoscholtes.github.io/csh2018-tutorial/setup). A brief introduction to interactive data science with `python`, `Visual Studio Code`, and `jupyter` is given in [unit 1](https://github.com/IngoScholtes/csh2018-tutorial/blob/master/code/1_vscode_jupyter.py).
 
 The remaining seven units (approx. 30 minutes each) introduce `pathpy`'s approach to the modeling and analysis of time series data on complex networks. For each unit we provide a stand-alone HTML file, as well as a juypter notebook that you can download and run on your machine. In units 5 and 8 we invite you to use `pathpy` to explore higher- and multi-order models on your own.
 
